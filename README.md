@@ -1,110 +1,100 @@
-﻿# Millet-i İbrahim (Hz. İbrahim, İshak ve Yakub Mirası)
+﻿# Millet-i İbrahim: Tevhidin Sarsılmaz Silsilesi
 
 ![Millet-i İbrahim Banner](millet_i_ibrahim_banner.png)
 
-## 🌟 Giriş
+> *"Gökleri ve yeri birleyerek (hanîf olarak) yüzünü o dine çevir ve sakın müşriklerden olma." (Yunus, 105)*
 
-Bu repository, Kur'an-ı Kerim'de **"Millet-i İbrahim"** (İbrahim'in Dini/Yolu) olarak tanımlanan asil tevhid geleneğini; bu yolun sarsılmaz halkaları olan **Hz. İbrahim**, **Hz. İshak** ve **Hz. Yakub** (aleyhimüsselam) üzerinden inceleyen dijital bir ilim arşividir.
+## 🏛 Projenin Ontolojik Temeli
 
-**Bu deponun temel amaçları şunlardır:**
-1. Bu üç büyük peygamberin Kur'an'da bir arada anıldığı ayetlerin etimolojik ve tefsir odaklı analizini yapmak.
-2. "Haniflik", "İmamet", "Lisan-ı Sıdk" ve "Teslimiyet" gibi anahtar Kur'ani kavramların bu kutlu soy üzerinden nasıl inşa edildiğini haritalandırmak.
-3. İslami ilimler alanında araştırma yapanlar, geliştiriciler ve okumalar yapan bireyler için yapılandırılmış, kolay erişilebilir ve dijital bir "açık kaynak başvuru kaynağı" sunmak.
+**Millet-i İbrahim**, sadece tarihsel bir topluluğu değil; zamanın ve mekanın ötesinde, insanlığın fıtratına nakşedilmiş **"Saf Hakikat"** arayışını temsil eder. Kur'an-ı Kerim'de bu kavram, Hz. İbrahim (a.s.) üzerinden bir "asıl" (kök) olarak tanımlanmış; Hz. İshak ve Hz. Yakub (a.s.) ile bu kökün nasıl dallanıp budaklandığı beyan edilmiştir.
 
----
-
-## 🏗 Kapsamlı Depo Mimarisi
-
-Bilginin tasnif edilmesi, doğru anlaşılması için hayati öneme sahiptir. Depo, konuların birbirine karışmaması için aşağıdaki hiyerarşik yapıya göre tasarlanmıştır:
-
-`	ext
-millet-i-ibrahim/
-│
-├── 📂 01_ayet_analizleri/              # Temel ayetlerin tefsirleri ve mealleri
-│   ├── sad_45_47_kuvvet_ve_basiret.md
-│   ├── meryem_49_50_lisan_i_sidk.md
-│   ├── bakara_132_133_vasiyet.md
-│   ├── enam_84_hidayet_ve_lisan.md
-│   ├── yusuf_38_atalarin_dini.md
-│
-├── 📂 02_kavramsal_cerceve/            # Kilit İslami terimlerin derinlemesine incelenmesi
-│   ├── haniflik_nedir.md               # Şirkten uzak, saf teslimiyet felsefesi
-│   ├── imamet_ve_onderlik.md           # İnsanlığa manevi rehberlik vasfı
-│   ├── vasiyet_kavrami.md              # Nesle bırakılan en büyük miras
-│   ├── lisan_i_sidk_dogruluk_dili.md   # Gelecek nesillerde doğrulukla anılma
-│   ├── ihlas_ve_ahiret_yurdu.md        # Ahireti önceleme bilinci
-│
-├── 📂 03_peygamber_profilleri/         # Şahıslar üzerinden özel incelemeler
-│   ├── ibrahim_as_halilullah.md        # Tek başına bir ümmet, Halilullah
-│   ├── ishak_as_ulim_ve_mubarek.md     # İlim sahibi ve mübarek kılınan oğul
-│   ├── yakub_as_israil_ve_sabir.md     # Hüznünü Allah'a şikayet eden sabır abidesi
-│
-├── 📂 04_secere_ve_tarih/              # Tarihsel, coğrafi ve sosyolojik bağlam
-│   ├── ibrahim_ailesi_soy_agaci.md     # Hz. İbrahim'den Hz. Yusuf'a uzanan şecere
-│   ├── tevhidin_cografyasi.md          # Kenan diyarı ve peygamberlerin hicretleri
-│
-├── 📂 05_kaynakca_ve_tefsirler/        # Yararlanılan muteber kaynakların listesi
-│   ├── basvuru_eserleri.md
-│
-├── CONTRIBUTING.md                     # Projeye nasıl katkı sağlanacağını anlatan rehber
-├── README.md                           # Okumakta olduğunuz ana dokümantasyon
-`
+Bu dijital arşiv; kölelikten hürriyete, şirkin karanlığından tevhidin nuruna hicret eden bu kutlu soyun mirasını; bilimsel, etimolojik ve teolojik perspektiflerle günümüz dünyasına taşımayı amaçlar.
 
 ---
 
-## 💎 Neden Bu Üç Peygamber? (Odak Noktaları)
+## 📂 Arşiv Mimarisi ve Keşif Rehberi
 
-Kur'an-ı Kerim, Yusuf Suresi 38. ayette Hz. Yusuf'un (a.s.) zindan arkadaşlarına yaptığı şu tarihi çağrıyı bize aktarır:
+Bilgi, ancak doğru bir tasnif ile hikmete dönüşür. Repository, araştırmacıların ve meraklıların konuyu derinlemesine kavrayabilmesi için beş ana sütun üzerine inşa edilmiştir:
 
-> *"Atalarım İbrahim, İshak ve Yakub'un dinine uydum. Bizim, Allah'a herhangi bir şeyi ortak koşmamız söz konusu olamaz..."*
+### 1. [01_ayet_analizleri/](./01_ayet_analizleri/) - Vahyin Penceresinden
+Bu bölüm, projenin çekirdeğini oluşturur. Her bir dosya, Millet-i İbrahim silsilesinin Kur'an'daki "anahtar" ayetlerini mercek altına alır.
+- **Kuvvet ve Basiret:** Amel ile ilmin muazzam dengesi.
+- **Lisan-ı Sıdk:** Bir peygamberin kıyamete uzanan doğruluk duası.
+- **Vasiyet:** Nesillere bırakılan en büyük mirasın analizi.
 
-Bu soy zinciri tesadüfi değildir. İşte bu projenin temelini oluşturan üç sarsılmaz sütun:
+### 2. [02_kavramsal_cerceve/](./02_kavramsal_cerceve/) - Tefekkürün Sözlüğü
+İslami terminolojinin bu kutlu silsile üzerinden nasıl şekillendiğini inceler.
+- **Haniflik:** Her türlü batıldan yüz çevirip tek olan Allah'a yönelmenin felsefesi.
+- **İmamet:** Liyakate dayalı manevi önderliğin ilkeleri.
+- **İhlas:** "Ahiret yurdunu düşünme" bilincinin gönül coğrafyasındaki karşılığı.
 
-### 1. Kuvvet ve Basiret (Sâd Suresi 45-47)
+### 3. [03_peygamber_profilleri/](./03_peygamber_profilleri/) - Şahsiyetlerin Kemâli
+Hz. İbrahim, Hz. İshak ve Hz. Yakub (a.s.) şahısları üzerinden, bir müminin kuşanması gereken ahlaki ve ruhsal donanımları belgeler.
+- **Halilullah:** Dostluğun en yüce makamı.
+- **Alîm ve Mübarek:** İlmin bereketle buluştuğu nokta.
+- **Sabr-ı Cemil:** Hüznü şikayete değil, duaya dönüştürme sanatı.
 
-Ayet-i kerimede bu üç peygamber, **"Evli'l-eydi ve'l-ebsâr"** (Güç/kuvvet ve basiret sahipleri) olarak nitelendirilir. Tefsirlere göre buradaki "kuvvet", ibadetlerdeki ve dini yaşamadaki kararlılığı, sarsılmaz iradeyi; "basiret" ise dini meselelerdeki derin anlayışı, uzağı görme yetisini ve körü körüne inanmamayı ifade eder.
+### 4. [04_secere_ve_tarih/](./04_secere_ve_tarih/) - Kökenler ve İzler
+Tevhidin insanlık tarihindeki somut izlerini, soy ağaçları ve coğrafi haritalar eşliğinde sunar.
+- **Nübüvvet Silsilesi:** Nuh (a.s.)'dan başlayıp son peygamber Muhammed (s.a.v.)'e uzanan kutsal bağ.
+- **Hicret Coğrafyası:** Mezopotamya'dan Kenan diyarına, oradan Mısır'a uzanan hidayet rotaları.
 
-### 2. Vasiyet Geleneği (Bakara Suresi 132-133)
-
-Hz. İbrahim ve torunu Hz. Yakub, ölüm döşeğindeyken çocuklarına mal, mülk veya taht değil, **"yalnızca Müslümanlar olarak can vermeyi"** vasiyet etmişlerdir. Bu repo, nesil yetiştirme ve ehl-i beyt (aile) kurma vizyonunu bu ayetler üzerinden inceler.
-
-### 3. Lisan-ı Sıdk / Doğruluk Dili (Meryem Suresi 50)
-
-Allah, bu üç peygambere yüksek bir "doğruluk dili" bağışlamıştır. Bu, bütün semavi dinler ve sonraki tüm medeniyetler tarafından saygıyla, hürmetle ve doğrulukla anılmak demektir. Nitekim bugün Yahudilik, Hristiyanlık ve İslam dünyası Hz. İbrahim ve soyunu ittifakla yüceltmektedir.
+### 5. [05_kaynakca_ve_tefsirler/](./05_kaynakca_ve_tefsirler/) - İlim Pınarları
+Arşivin güvenilirliğini tescilleyen, klasik ve modern İslam düşüncesinin temel eserlerini listeler.
 
 ---
 
-## 📊 Örnek Bilgi Tabloları
+## 💎 Tematik Derinlik: Üç Sarsılmaz Sütun
 
-Repoda yer alacak verilerin yapılandırılmış hali için bir örnek:
+Bu projenin odak noktası, Kur'an'ın bu üç peygamberi zikrederken vurguladığı üç temel haslettir:
 
-| Peygamber | Kur'an'daki Temel Sıfatları | Karakteristik Özelliği | İlgili Temel Ayetler |
+### ⚡ Kuvvet ve Basiret (Action and Insight)
+Hz. İbrahim ve soyu, sadece dua eden değil, aynı zamanda **eylem** (kuvvet) ve **derin görüş** (basiret) sahibiydiler. Bu denge, modern müminin "atıl bekleyişten" kurtulup "bilinçli eyleme" geçmesi için temel bir rehberdir.
+
+### 🗣 Lisan-ı Sıdk (The Language of Truth)
+İbrahim (a.s.)'ın *"Bana sonrakiler içinde bir doğruluk dili nasip eyle"* duası, bugün yeryüzündeki tüm tevhid ehlinin ortak dilidir. Bu kavram, bilginin ve doğruluğun nesiller arası transferindeki ahlaki sorumluluğu temsil eder.
+
+### 📜 Vasiyet ve Teslimiyet (Legacy and Submission)
+Peygamberlerin son nefeslerindeki endişeleri, evlatlarının inanç durumudur. Bu vasiyet, Millet-i İbrahim'in genetik kodunu oluşturur: *"Ancak Müslümanlar olarak can verin."*
+
+---
+
+## 📊 Karşılaştırmalı Karakteristik Analiz
+
+| Peygamber | Merkezi Vasfı | Kur'ani Tanımı | Öne Çıkan İmtihanı |
 | --- | --- | --- | --- |
-| **İbrahim (a.s.)** | Halilullah, Hanif, İmam, Tek Başına Ümmet | Teslimiyet, Şirkle sarsılmaz mücadele, Tevhidin inşası | Bakara 124, Nahl 120, Sâd 45 |
-| **İshak (a.s.)** | Alîm (İlim Sahibi), Mübarek, Salih | Hz. İbrahim'e ileri yaşında verilen müjde, Nübüvvetin devamı | Saffat 112-113, Zariyat 28, En'âm 84 |
-| **Yakub (a.s.)** | İsrail, Zü-ilm (İlim Sahibi), Evvab | Derin sabır (Sabr-ı Cemil), Evlat imtihanı, Allah'a tevekkül | Yusuf 86, Bakara 132-133, Sâd 45 |
+| **İbrahim (a.s.)** | **Teslimiyet** | Halilullah / Tek Başına Ümmet | Nemrut ve Ateş / Evlat Kurbanı |
+| **İshak (a.s.)** | **İlim & Hikmet** | Alîm / Mübarek / Salih | Nübüvvetin Sürekliliği / Bilgi Aktarımı |
+| **Yakub (a.s.)** | **Sabır & Basiret** | İsrail / Zü-ilm / Evvâb | Evlat Hasreti / Yusuf İmtihanı |
 
 ---
 
-## 🚀 Proje Yol Haritası (Roadmap)
+## 🚀 Proje Yol Haritası ve Vizyon
 
-### Faz 1: Temel Atma (Tamamlandı)
-* [x] Depo yapısının ve dizin mimarisinin oluşturulması.
-* [x] Temel ayetlerin meallerinin ve arapça metinlerinin sisteme girilmesi.
-* [x] Muteber Ehl-i Sünnet tefsirlerinden temel açıklamaların eklenmesi.
+Millet-i İbrahim Arşivi, yaşayan bir organizma gibi sürekli gelişmeyi hedefler:
 
-### Faz 2: Kavramsal Derinlik (Devam Ediyor)
-* [/] kavramsal_cerceve klasöründeki dosyaların dilbilimsel incelemelerle doldurulması.
-* [ ] Hz. İbrahim'in ve soyunun ettiği duaların tasniflenerek özel bir tablo haline getirilmesi.
-
-### Faz 3: Genişleme ve Sunum
-* [ ] İçeriklerin GitBook veya benzeri bir platform ile web sitesi formatında yayınlanması.
-* [ ] Çeşitli konulara göre zihin haritalarının (mind map) görseller halinde repoya eklenmesi.
+*   **[Faz 1] Temel Yapılanma:** Arşivin mimari çatısının kurulması ve temel ayet analizlerinin tamamlanması. **(TAMAMLANDI)**
+*   **[Faz 2] Kavramsal Derinlik:** Klasik tefsirlerdeki gizli mücevherlerin (nadir yorumların) modern bir dille dokümante edilmesi. **(DEVAM EDİYOR)**
+*   **[Faz 3] Görselleştirme ve Dijital Entegrasyon:** Tevhidin tarihini anlatan interaktif zaman çizelgeleri ve zihin haritalarının (Mind Map) eklenmesi.
+*   **[Faz 4] Global Erişim:** İçeriklerin çok dilli (İngilizce, Arapça, Farsça) yapıya kavuşturulması.
 
 ---
 
-## 📜 Lisans Şartları
+## 🤝 Katkı Sağlama (İlim Yolculuğu)
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır.
+Bu depo, bilgiye susamış her zihne ve katkı sunmak isteyen her gönle açıktır. Bilimsel metotlara uygun, kaynaklı ve tarafsız katkılarınızla bu arşivi hep birlikte büyütebiliriz. Lütfen [CONTRIBUTING.md](./CONTRIBUTING.md) dosyasını inceleyin.
+
+---
+
+## ⚖ Lisans ve Telif
+
+Bu çalışma **MIT Lisansı** ile korunmaktadır. İlim, paylaşıldıkça bereketlenen bir mirastır; ticari kaygı gütmeksizin her türlü eğitimsel faaliyette kullanılabilir.
 
 *"Şüphesiz benim namazım, ibadetlerim, dirimim ve ölümüm âlemlerin Rabbi olan Allah içindir." (En'âm, 162)*
+
+---
+
+<p align="center">
+  <b>Millet-i İbrahim Arşivi - 2026</b><br>
+  <i>"Atalarımızın yolunda, hakikatin izinde..."</i>
+</p>
