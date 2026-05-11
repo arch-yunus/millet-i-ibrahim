@@ -139,23 +139,38 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 
 ---
 
----
-
 ![Hikmet Banner](assets/wisdom_banner.png)
 
 ## 🌿 Hikmet Bahçesi: Âlimlerden İktibaslar
 
-> *"İbrahim vari bir aşk lazım ki ateş seni yakmasın, bilakis sana selam olsun."*
+> *"İbrahim vari bir aşk lazım ki ateş seni yakmasın, bilakis sana selam olsun. Nemrut'un ateşi cismi yakar; ama aşk ateşi, cismindeki o 'Nemrut'luk vasfını yakar da seni 'Halil' eyler."*
 > — **Hz. Mevlânâ**
 
-> *"Millet-i İbrahim; şirke, zulme ve kula kulluğa karşı başkaldıran 'hürriyet-i imaniye'nin adıdır."*
+> *"Millet-i İbrahim; şirke, zulme ve kula kulluğa karşı başkaldıran 'hürriyet-i imaniye'nin adıdır. Bu yolda yürüyen her mümin, İbrahimî bir asaletin mirasçısıdır."*
 > — **Elmalılı Hamdi Yazır**
 
-> *"İbrahimî aşkın olmadığı yerde akıl, sadece kendini yakan bir ateştir."*
+> *"İbrahimî aşkın olmadığı yerde akıl, sadece kendini yakan bir ateştir. Modern dünya Nemrut'un ateşine dönmüşse, mümin için tek kurtuluş İbrahimî bir vizyona (basiret) sahip olmaktır."*
 > — **Muhammed İkbal**
 
-[Daha fazla iktibas incele...](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
+> *"Hz. İbrahim'in ateşe atılırken sergilediği tevekkül, sadece bir teslimiyet değil, kalbin Allah'tan gayrı her şeyden tam bir arınmışlık halidir. Ateşin gül bahçesine dönmesi, ruhun ilahi aşkla serinlemesinin bir misalidir."*
+> — **İmam Gazâlî**
 
+> *"Haniflik, kalbin her türlü şirk şaibesinden arınarak, bir iğne ucu kadar bile Allah'tan başkasına yer vermemesidir. Zira kalbinde Allah sevgisi olanın, dışarıdaki ateşle işi olmaz."*
+> — **İbn Kayyım el-Cevziyye**
+
+> *"Hazret-i İbrahim'in (a.s.) yıldızlara, aya, güneşe bakıp 'La uhibbü'l-âfilîn' (Ben batanları sevmem) demesi; aklın, faniden bakiye olan o büyük hicretidir. Bu kelam, tüm kainatı arkasına atıp sadece Zât-ı Zülcelal'e yönelen bir ruhun ebediyet feryadıdır."*
+> — **Bediüzzaman Said Nursî**
+
+> *"Haccın her rüknü, İbrahimî bir devrimin sembolüdür. İbrahim olmak demek; kendi içindeki İsmail'i kurban edebilecek bir teslimiyete ulaşmak ve Nemrutların saraylarını Tevhidin çekiciyle yerle bir etmektir."*
+> — **Ali Şeriatî**
+
+> *"İbrahim (a.s.) davasını tek başına omuzladığında, arkasında ne bir ordu ne de bir devlet vardı. Sadece sarsılmaz bir imanı vardı. İşte o iman, bugün milyarlarca insanı aynı secde hizasında birleştiren o büyük 'ümmet'in çekirdeğidir."*
+> — **Şehid Seyyid Kutub**
+
+> *"Allah Teâlâ İbrahim'i halil (dost) edindi; çünkü o, Rabbine karşı olan sevgisinde hiçbir yaratılmışı ortak etmedi. O, imtihan edildikçe sadakati artan bir 'Sıddık' peygamberdir."*
+> — **İbn Kesîr**
+
+[Daha fazla iktibas ve derin analiz incele...](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
 ---
 
 ## 📊 Örnek Bilgi Tabloları (Stratejik Mukayese)
