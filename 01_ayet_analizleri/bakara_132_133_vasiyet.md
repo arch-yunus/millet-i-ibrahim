@@ -1,10 +1,12 @@
 # Bakara Suresi 132-133: Peygamberlerin Vasiyeti
 
 > [!IMPORTANT]
+> **إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ** (131)
 > **وَوَصّٰى بِهَآ اِبْرٰه۪يمُ بَن۪يهِ وَيَعْقُوبُۜ يَا بَنِيَّ اِنَّ اللّٰهَ اصْطَفٰى لَكُمُ الدّ۪ينَ فَلَا تَمُوتُنَّ اِلَّا وَاَنْتُمْ مُسْلِمُونَۜ** (132)
-> **اَمْ كُنْتُمْ شُهَدَآءَ اِذْ حَضَرَ يَعْقُوبَ الْمَوْتُۙ اِذْ قَالَ لِبَن۪يهِ مَا تَعْبُدُونَ مِنْ بَعْد۪يۜ قَالُوا نَعْبُدُ اِلٰهَكَ وَاِلٰهَ اٰبَآئِكَ اِبْرٰه۪يمَ وَاِسْمٰع۪يلَ وَاِسْحٰقَ اِلٰهًا وَاحِدًاۚ وَنَحْنُ لَهُ مُسْلِمُونَ** (133)
+> **أَمْ كُنتُمْ شُهَدَاءَ إِذْ حَضَرَ يَعْقُوبَ الْمَوْتُ... قَالُوا نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ آبَائِكَ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَٰهًا وَاحِدًا...** (133)
+> **تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ...** (134)
 > 
-> *"İbrahim bunu kendi oğullarına da vasiyet etti, Yakub da: 'Oğullarım! Allah sizin için bu dini (İslâm'ı) seçti, siz de ancak müslümanlar olarak ölün' dedi. Yoksa siz Yakub'a ölüm geldiği zaman orada mıydınız? O, oğullarına: 'Benden sonra neye ibadet edeceksiniz?' dediğinde, onlar: 'Senin ilâhına ve ataların İbrahim, İsmail ve İshak'ın ilâhı olan tek ilâha ibadet edeceğiz. Bizler O'na teslim olanlarız' dediler."* (Bakara, 132-133)
+> *"Rabbi ona: 'Teslim ol' dediğinde o: 'Alemlerin rabbine teslim oldum' demişti. İbrahim bunu kendi oğullarına da vasiyet etti, Yakub da: 'Oğullarım! Allah sizin için bu dini seçti, siz de ancak müslümanlar olarak ölün' dedi. Yoksa siz Yakub'a ölüm geldiği zaman orada mıydınız?... Onlar gelip geçmiş bir ümmettir. Onların kazandıkları kendilerinin, sizin kazandıklarınız sizindir."* (Bakara, 131-134)
 
 ## Vasiyetin Özü: Din ve Teslimiyet
 

@@ -1,11 +1,13 @@
 # Sâd Suresi 45-47: Kuvvet ve Basiret Sahipleri
 
 > [!IMPORTANT]
-> **وَاذْكُرْ عِبَادَنَآ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَ اُولِي الْاَيْد۪ي وَالْاَبْصَارِۜ** (45)
-> **اِنَّآ اَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى الدَّارِۚ** (46)
-> **وَاِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْاَخْيَارِ۟** (47)
+> **إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ** (44)
+> **وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ** (45)
+> **إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ** (46)
+> **وَاِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْاEخْيَارِ۟** (47)
+> **وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ ۖ وَكُلٌّ مِّنَ الْأَخْيَارِ** (48)
 > 
-> *"Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an. Biz onları, özellikle ahiret yurdunu hatırlama özelliği ile saflaştırıp seçkin kıldık. Şüphesiz onlar bizim katımızda, seçilmiş en hayırlı kimselerdendir."* (Sâd, 45-47)
+> *"Gerçekten biz onu (Eyyub'u) sabırlı bulduk. O ne güzel kul! O, daima Allah'a yönelen biridir. Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an. Biz onları, özellikle ahiret yurdunu hatırlama özelliği ile saflaştırıp seçkin kıldık. Şüphesiz onlar bizim katımızda, seçilmiş en hayırlı kimselerdendir. İsmail'i, el-Yesa'ı ve Zülkifl'ı de an. Hepsi de iyilerdendir."* (Sâd, 44-48)
 
 ## Tefsir Analizi
 

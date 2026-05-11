@@ -1,10 +1,12 @@
 # Meryem Suresi 49-50: Lisan-ı Sıdk (Doğruluk Dili)
 
 > [!IMPORTANT]
-> **فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللّٰهِ وَهَبْنَا لَهُ اِسْحٰقَ وَيَعْقُوبَۜ وَكُلًّا جَعَلْنَا نَبِيًّا** (49)
+> **وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ اللَّهِ وَأَدْعُو رَبِّي عَسَىٰ أَلَّا أَكُونَ بِدُعَاءِ رَبِّي شَقِيًّا** (48)
+> **فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللّٰهِ وَهَبْنَا لَهُ اِسْحٰقَ وَيَعْقُوبَۜ وَكُلًّا جَعELْنَا نَبِيًّا** (49)
 > **وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا** (50)
+> **وَاذْكُرْ فِي الْكِتَابِ مُوسَىٰ ۚ إِنَّهُ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا** (51)
 > 
-> *"Böylece (İbrahim) onlardan ve Allah'tan başka taptıklarından ayrılınca, ona İshak'ı ve Yakub'u bağışladık ve her birini peygamber yaptık. Onlara rahmetimizden bağışta bulunduk ve onlar için yüksek bir doğruluk dili (lisan-ı sıdk) kıldık."* (Meryem, 49-50)
+> *"(İbrahim:) 'Sizden ve Allah'tan başka taptığınız şeylerden uzaklaşıyor ve Rabbime yalvarıyorum.' İbrahim onlardan uzaklaşınca, biz ona İshak'ı ve Yakub'u bahşettik; her birini de peygamber yaptık. Onlara rahmetimizden bağışta bulunduk ve kendileri için yüce bir doğruluk dili (övgüsü) kıldık. Kitap'ta Musa'yı da an. Şüphesiz o, seçilmiş bir kimseydi; bir resûl, bir nebi idi."* (Meryem, 48-51)
 
 ## Kavramsal İnceleme: Lisan-ı Sıdk
 

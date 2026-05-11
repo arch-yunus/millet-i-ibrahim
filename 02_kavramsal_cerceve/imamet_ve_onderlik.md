@@ -3,9 +3,9 @@
 Kur'an-ı Kerim'de **İmamet**, sadece siyasi bir liderlik değil; insanlığa hakikati gösteren, onlara öncülük eden ve ilahi vahyin yeryüzündeki temsilciliğini üstlenen en yüce makamdır. Hz. İbrahim (a.s.), bu makamın "İmamu'l-Muttakin" (Takva sahiplerinin imamı) olarak anılan baş mimarıdır.
 
 > [!IMPORTANT]
-> **وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِن ذُرِّيَّتِي ۖ قَالَ لَا يَنَالُ عَهْدِي الظَّالِمِينَ**
+> **وَاتَّقُوا يَوْمًا لَّا تَجْزِي نَفْسٌ عَن نَّفْسٍ شَيْئًا... (123) وَإِذِ ابْتَلَىٰ إِبْرَاهِيمَ رَبُّهُ بِكَلِمَاتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّي جَاعِلُكَ لِلنَّاسِ إِمَامًا... (124) وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا... (125)**
 > 
-> *"Rabbi İbrahim'i birtakım kelimelerle sınamış, İbrahim onları eksiksiz yerine getirmişti. Allah, 'Ben seni insanlara önder (imam) yapacağım' demişti. İbrahim, 'Soyumdan da (önderler yap, ya Rabbi!)' deyince Rabbi, 'Vaadim (ahdim) zalimleri kapsamaz' buyurmuştu."* (Bakara, 124)
+> *"Öyle bir günden sakının ki, o gün hiç kimse başkası namına bir şey ödeyemez... Hani Rabbi İbrahim'i bazı kelimelerle sınamış, o da onları tam olarak yerine getirmişti. Allah, 'Ben seni insanlara önder kılacağım' demişti... Hani biz evi (Kâbe'yi) insanlar için bir toplanma ve güven yeri kıldık."* (Bakara, 123-125)
 
 ## İmametin Şartı: Sadakat ve İmtihan
 

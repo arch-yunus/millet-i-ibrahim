@@ -8,9 +8,9 @@
 ![Dil](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red?style=for-the-badge)
 
 > [!IMPORTANT]
-> **وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ**
+> **قُلْ يَا أَيُّهَا النَّاسُ إِن كُنتُمْ فِي شَكٍّ مِّن دِينِي فَلَا أَعْبُدُ الَّذِينَ تَعْبُدُونَ مِن دُونِ اللَّهِ وَلَٰكِنْ أَعْبُدُ اللَّهَ الَّذِي يَتَوَفَّاكُمْ... (104) وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ (105) وَلَا تَدْعُ مِن دُونِ اللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ... (106)**
 > 
-> *"Gökleri ve yeri birleyerek (hanîf olarak) yüzünü o dine çevir ve sakın müşriklerden olma."* (Yunus, 105)
+> *"De ki: 'Ey insanlar! Benim dinimden şüphede iseniz bilin ki ben Allah'tan başka taptıklarınıza tapmam... Yüzünü, doğruya yönelmiş olarak dine çevir, sakın ortak koşanlardan olma! Allah'ı bırakıp da sana fayda da zarar da veremeyecek şeylere tapma!'"* (Yunus, 104-106)
 
 ## 🏛 Projenin Vizyonu ve Felsefesi
 
@@ -28,21 +28,21 @@ Bu arşivin ruhunu oluşturan, Millet-i İbrahim'in sarsılmaz silsilesini tanı
 
 > [!NOTE]
 > ### 1. Kuvvet ve Basiret Sahipleri
-> **وَاذْكُرْ عِبَادَنَآ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَ اُولِي الْاَيْد۪ي وَالْاَبْصَارِۜ**
+> **إِنَّا وَجَدْنَاهُ صَابِرًا ۚ نِّعْمَ الْعَبْدُ ۖ إِنَّهُ أَوَّابٌ (44) وَاذْكُرْ عِبَادَنَا إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ أُولِي الْأَيْدِي وَالْأَبْصَارِ (45) إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ (46) وَإِنَّهُمْ عِندَنَا لَمِنَ الْمُصْطَفَيْنَ الْأَخْيَارِ (47) وَاذْكُرْ إِسْمَاعِيلَ وَالْيَسَعَ وَذَا الْكِفْلِ... (48)**
 > 
-> *"Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an."* (Sâd, 45)
+> *"Gerçekten biz onu (Eyyub'u) sabırlı bulduk. O ne güzel kul! O, daima Allah'a yönelen biridir. Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an. Biz onları, özellikle ahiret yurdunu hatırlama özelliği ile saflaştırıp seçkin kıldık... İsmail'i, el-Yesa'ı ve Zülkifl'ı de an. Hepsi de iyilerdendir."* (Sâd, 44-48)
 
 > [!NOTE]
 > ### 2. Ataların Dini ve Saf Teslimiyet
-> **وَاتَّبَعْتُ مِلَّةَ اٰبَآئ۪يٓ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَآ اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۜ**
+> **إِنِّي تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِاللَّهِ... (37) وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا أَن نُّشْرِكَ بِاللَّهِ مِن شَيْءٍ... (38) يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ (39)**
 > 
-> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz..."* (Yusuf, 38)
+> *"...Şüphesiz ben, Allah'a inanmayan bir kavmin dininden uzaklaştım. Atalarım İbrahim, İshak ve Yakub'un dinine uydum. Allah'a hiçbir şeyi ortak koşmamız bize yaraşmaz... Ey zindan arkadaşlarım! Birbirinden ayrı birçok rabler mi daha hayırlıdır, yoksa her şeye galip gelen tek Allah mı?"* (Yusuf, 37-39)
 
 > [!NOTE]
 > ### 3. Lisan-ı Sıdk (Doğruluk Dili)
-> **وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا**
+> **وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ اللَّهِ وَأَدْعُو رَبِّي... (48) فَلَمَّا اعْتَزَلَهُمْ... وَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ... (49) وَوَهَبْنَا لَهُم مِّن رَّحْمَتِنَا وَجَعELْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا (50)**
 > 
-> *"Onlara rahmetimizden bağışta bulunduk ve onlar için yüksek bir doğruluk dili (lisan-ı sıdk) kıldık."* (Meryem, 50)
+> *"(İbrahim:) 'Sizden ve Allah'tan başka taptığınız şeylerden uzaklaşıyor ve Rabbime yalvarıyorum.' İbrahim onlardan uzaklaşınca, biz ona İshak'ı ve Yakub'u bahşettik... Onlara rahmetimizden bağışta bulunduk ve kendileri için yüce bir doğruluk dili (övgüsü) kıldık."* (Meryem, 48-50)
 
 ---
 
