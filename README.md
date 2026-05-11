@@ -86,6 +86,7 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 *İslam alimlerinin ve mutasavvıfların İbrahimî yol yorumları.*
 - 📜 [Âlimlerin Dilinden İbrahimî Yol](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
 - 🌍 [Evrensel Perspektif ve Felsefe](06_vecizeler_ve_iktibaslar/evrensel_perspektif_ve_felsefi_yaklasimlar.md)
+- 📖 [Ehl-i Kitap Gözüyle İbrahimî Gelenek](06_vecizeler_ve_iktibaslar/ehl_i_kitap_gozuyle_ibrahimi_gelenek.md)
 
 ![Sütunlar Banner](assets/pillars_banner.png)
 
@@ -184,6 +185,18 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 > — **Karl Jaspers**
 
 [Daha fazla evrensel perspektif incele...](06_vecizeler_ve_iktibaslar/evrensel_perspektif_ve_felsefi_yaklasimlar.md)
+
+---
+
+## 📖 Müşterek Miras: Ehl-i Kitap Perspektifi
+
+> *"İbrahim, tüm insanlığın şirke battığı bir çağda, tek başına aklını kullanarak Tevhidin rasyonel temellerini atan 'ilk filozof'tur."*
+> — **Maimonides (Rambam)**
+
+> *"İbrahim, sadece bedensel olarak değil, daha da önemlisi 'iman bağıyla' hepimizin babasıdır."*
+> — **Aziz Augustinus**
+
+[Daha fazla Ehl-i Kitap perspektifi incele...](06_vecizeler_ve_iktibaslar/ehl_i_kitap_gozuyle_ibrahimi_gelenek.md)
 
 ---
 
