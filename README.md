@@ -139,6 +139,8 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 
 ---
 
+![Hikmet Banner](assets/wisdom_banner.png)
+
 ## 🌿 Hikmet Bahçesi: Âlimlerden İktibaslar
 
 > *"İbrahim vari bir aşk lazım ki ateş seni yakmasın, bilakis sana selam olsun."*
@@ -164,6 +166,8 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 
 ---
 
+![Yol Haritası Banner](assets/roadmap_banner.png)
+
 ## 🚀 Proje Yol Haritası (Roadmap)
 
 - [x] **Faz 1:** Depo yapısının ve dizin mimarisinin oluşturulması.
@@ -173,6 +177,8 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 - [ ] **Faz 5:** İçeriklerin GitBook platformu üzerinden dijital külliyat olarak yayına alınması.
 
 ---
+
+![Metodoloji Banner](assets/methodology_banner.png)
 
 ## 📚 Metodoloji ve Kaynakça
 
