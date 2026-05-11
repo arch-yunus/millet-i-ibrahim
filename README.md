@@ -24,6 +24,22 @@
 
 Hz. İbrahim'in (a.s.) ateşe atılma pahasına savunduğu bu tevhid meşalesi, Allah'ın bir lütfu olarak ona bağışlanan oğlu Hz. İshak ve torunu Hz. Yakub (a.s.) ile kesintisiz bir **"nübüvvet ve hidayet silsilesine"** dönüşmüştür. Sâd Suresi 45. ayette geçen **"Kuvvetli ve basiretli kullarımız..."** hitabı, bu üç şahsiyetin irade (kuvvet) ve hakikati görme (basiret) konusundaki eşsiz konumlarını özetler.
 
+### 🌟 Nübüvvet Silsilesinin Hikmeti
+İbrahimî gelenek, bireysel bir dindarlıktan ziyade **"ailevi ve toplumsal bir süreklilik"** inşa eder. Bu silsilede;
+- **İbrahim (a.s.):** Kurucu iradeyi ve mutlak teslimiyeti,
+- **İshak (a.s.):** İlmi derinliği ve mübarek bir neslin devamını,
+- **Yakub (a.s.):** Sabrı, vasiyet disiplinini ve kurumsal kimlik (İsrail) bilincini temsil eder.
+
+---
+
+## 🔍 Temel Kavramların Etimolojik Analizi
+
+Arşivimizde her kavram, Kur'an'ın semantik dünyasındaki köklerine inilerek incelenir:
+
+1.  **Millet (مِلَّة):** Kelime anlamı itibarıyla "izlenen yol, din, şeriat" demektir. Ancak "Millet-i İbrahim" tabiri, pasif bir aidiyetten ziyade, bilinçli bir **"yol takibi"** ve **"fikri duruş"** anlamına gelir.
+2.  **Hanîf (حَنِيف):** Eğriliği bırakıp doğruya yönelen, her türlü şirkten yüz çevirip tek olan Allah'a ihlasla bağlanan demektir. İbrahimî yolun "genetik kodu" Hanifliktir.
+3.  **İmâm (إِمَام):** Önder, rehber, numune-i imtisal. Bakara 124. ayette Hz. İbrahim'e verilen bu unvan, onun tüm insanlık için bir "referans noktası" kılındığını tesciller.
+
 ---
 
 ## 🗂️ Depo Mimarisi ve İçerik Rehberi
@@ -89,6 +105,25 @@ Millet-i İbrahim'in sarsılmaz silsilesini tanımlayan ve bu arşivin temelini 
 > *"Onlara rahmetimizden bağışta bulunduk ve kendileri için yüce bir doğruluk dili (övgüsü) kıldık."* (Meryem, 50)
 > 
 > Allah, bu üç peygambere yüksek bir "doğruluk dili" bağışlamıştır. Bu makam; bütün semavi dinler ve sonraki tüm medeniyetler tarafından saygıyla, hürmetle ve doğrulukla anılmak demektir. Hz. İbrahim'in *"Benden sonra gelecekler içinde beni doğrulukla anılanlardan (lisan-ı sıdk) eyle"* (Şuara, 84) duası, bu silsilede tam anlamıyla tecelli etmiştir.
+
+---
+
+## 🌍 Modern Çağa Mesajlar: Neden Şimdi?
+
+Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşivi şu çözümleri sunar:
+- **Kök Salmak:** Popüler kültürün rüzgarları arasında savrulmak yerine, binlerce yıllık sarsılmaz bir silsileye tutunmak.
+- **Rasyonel İman:** Hz. İbrahim'in kainatı gözlemleyerek bulduğu o "tahkiki iman" metodunu modern bilime entegre etmek.
+- **Aile Bilinci:** Vasiyet kavramıyla, çocuklara sadece konfor değil, bir "dava" bırakmanın önemini hatırlamak.
+
+---
+
+## ❓ Sıkça Sorulan Sorular (SSS)
+
+**S: Millet-i İbrahim sadece Müslümanları mı kapsar?**
+**C:** Kur'anî perspektifte İslam, Hz. Adem'den beri gelen tevhid dininin adıdır. Hz. İbrahim ise bu yolun "babası" ve "imamı" kılınmıştır. Bizim arşivimiz, bu evrensel mesajın Kur'an'daki kristalize halini inceler.
+
+**S: Bu çalışma bir tarikat veya cemaate mi ait?**
+**C:** Hayır. Bu, tamamen açık kaynaklı, akademik ve teolojik bir arşivdir. Herhangi bir yapıya değil, doğrudan Kur'an-ı Kerim'in metnine ve muteber Ehl-i Sünnet tefsirlerine dayanır.
 
 ---
 
