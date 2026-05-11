@@ -80,6 +80,10 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 *Arşivin beslendiği akademik ve ilmi kaynaklar.*
 - 📚 [Başvuru Eserleri](05_kaynakca_ve_tefsirler/basvuru_eserleri.md)
 
+### 📂 [06 Vecizeler ve İktibaslar](06_vecizeler_ve_iktibaslar/)
+*İslam alimlerinin ve mutasavvıfların İbrahimî yol yorumları.*
+- 📜 [Âlimlerin Dilinden İbrahimî Yol](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
+
 ![Sütunlar Banner](assets/pillars_banner.png)
 
 ## 💎 Odak Noktaları (Millet-i İbrahim'in Sütunları)
@@ -130,6 +134,20 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 
 **S: Bu çalışma bir tarikat veya cemaate mi ait?**
 **C:** Hayır. Bu, tamamen açık kaynaklı, akademik ve teolojik bir arşivdir. Herhangi bir yapıya değil, doğrudan Kur'an-ı Kerim'in metnine ve muteber Ehl-i Sünnet tefsirlerine dayanır.
+
+---
+
+---
+
+## 🌿 Hikmet Bahçesi: Âlimlerden İktibaslar
+
+> *"İbrahim vari bir aşk lazım ki ateş seni yakmasın, bilakis sana selam olsun."*
+> — **Hz. Mevlânâ**
+
+> *"Millet-i İbrahim; şirke, zulme ve kula kulluğa karşı başkaldıran 'hürriyet-i imaniye'nin adıdır."*
+> — **Elmalılı Hamdi Yazır**
+
+[Daha fazla iktibas incele...](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
 
 ---
 
