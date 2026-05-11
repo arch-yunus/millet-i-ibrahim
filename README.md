@@ -62,45 +62,84 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 *Arşivin beslendiği akademik ve ilmi kaynaklar.*
 - 📚 [Başvuru Eserleri](05_kaynakca_ve_tefsirler/basvuru_eserleri.md)
 
----
+## 💎 Odak Noktaları (Millet-i İbrahim'in Sütunları)
 
-## 💎 Odak Noktaları
+Millet-i İbrahim'in sarsılmaz silsilesini tanımlayan ve bu arşivin temelini oluşturan üç ana ruh:
 
-> [!TIP]
-> **وَاتَّبَعْتُ مِلَّةَ اٰبَآئ۪يٓ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَآ اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۜ**
+> [!NOTE]
+> ### 1. Kuvvet ve Basiret (Sâd Suresi 45-48)
+> **وَاذْكُرْ عِبَادَنَآ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَ اُولِي الْاَيْد۪ي وَالْاَبْصَارِۜ**
 > 
-> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz..."* (Yusuf, 38)
+> *"Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an."* (Sâd, 45)
+> 
+> Ayet-i kerimede geçen **"Evli'l-eydi"** (eller/kuvvet sahipleri) tabiri, bu üç peygamberin ibadetlerdeki kararlılığını, dini yaşamadaki sarsılmaz iradesini ve zorluklar karşısındaki metanetini ifade eder. **"Evli'l-ebsâr"** (gözler/basiret sahipleri) ise, eşyanın hakikatini görme, ilahi hikmetleri kavrama ve körü körüne bir taklitten uzak durma yetisidir. İbrahimî yol; sadece eylem değil, derin bir kavrayış yoludur.
 
-Millet-i İbrahim'in sarsılmaz silsilesini tanımlayan üç ana sütun:
+> [!NOTE]
+> ### 2. Vasiyet Geleneği (Bakara Suresi 132-134)
+> **وَوَصّٰى بِهَآ اِبْرٰه۪يمُ بَن۪يهِ وَيَعْقُوبُۜ يَا بَنِيَّ اِنَّ اللّٰهَ اصْطَفٰى لَكُمُ الدّ۪ينَ فَلَا تَمُوتُنَّ اِلَّا وَاَنْتُمْ مُسْلِمُونَۜ**
+> 
+> *"İbrahim bunu kendi oğullarına da vasiyet etti, Yakub da: 'Oğullarım! Allah sizin için bu dini seçti, siz de ancak müslümanlar olarak ölün' dedi."* (Bakara, 132)
+> 
+> Hz. İbrahim ve torunu Hz. Yakub, vefat anında çocuklarına mal, mülk veya taht değil; en büyük sermaye olan **"İslam üzere kalmayı"** vasiyet etmişlerdir. Bu vasiyet, Millet-i İbrahim'in nesiller arası kesintisiz bir hidayet köprüsü kurduğunun en büyük kanıtıdır. Arşivimiz, bu manevi mirasın günümüze nasıl taşınması gerektiğini inceler.
 
-1.  **Kuvvet ve Basiret:** Amelde kararlılık, ilimde derinlik.
-2.  **Vasiyet Geleneği:** Nesiller boyu kesintisiz tevhid aktarımı.
-3.  **Lisan-ı Sıdk:** Hakikat ile ölümsüzleşme ve hayırla anılma.
+> [!NOTE]
+> ### 3. Lisan-ı Sıdk / Doğruluk Dili (Meryem Suresi 50)
+> **وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا**
+> 
+> *"Onlara rahmetimizden bağışta bulunduk ve kendileri için yüce bir doğruluk dili (övgüsü) kıldık."* (Meryem, 50)
+> 
+> Allah, bu üç peygambere yüksek bir "doğruluk dili" bağışlamıştır. Bu makam; bütün semavi dinler ve sonraki tüm medeniyetler tarafından saygıyla, hürmetle ve doğrulukla anılmak demektir. Hz. İbrahim'in *"Benden sonra gelecekler içinde beni doğrulukla anılanlardan (lisan-ı sıdk) eyle"* (Şuara, 84) duası, bu silsilede tam anlamıyla tecelli etmiştir.
 
 ---
 
-## 📊 Özet Mukayese Tablosu
+## 📊 Örnek Bilgi Tabloları (Stratejik Mukayese)
 
-| Peygamber | Kur'an'daki Temel Sıfatı | Karakteristik Vurgu |
-| :--- | :--- | :--- |
-| **İbrahim (a.s.)** | Halilullah / Hanif | Mutlak Teslimiyet ve İnşa |
-| **İshak (a.s.)** | Ğulâmun Alîm | İlim ve Mübarek Silsile |
-| **Yakub (a.s.)** | Sabr-ı Cemîl / İsrail | Tevekkül ve Vasiyet |
+| Peygamber | Kur'an'daki Temel Sıfatları | Karakteristik Özelliği | İlgili Temel Ayetler |
+| --- | --- | --- | --- |
+| **İbrahim (a.s.)** | Halilullah, Hanif, İmam, Tek Başına Ümmet | Teslimiyet, Şirkle sarsılmaz mücadele, Tevhidin inşası | Bakara 124, Nahl 120, Sâd 45 |
+| **İshak (a.s.)** | Alîm (İlim Sahibi), Mübarek, Salih | Hz. İbrahim'e ileri yaşında verilen müjde, Nübüvvetin devamı | Saffat 112-113, Zariyat 28, En'âm 84 |
+| **Yakub (a.s.)** | İsrail, Zü-ilm (İlim Sahibi), Evvab | Derin sabır (Sabr-ı Cemil), Evlat imtihanı, Allah'a tevekkül | Yusuf 86, Bakara 132-133, Sâd 45 |
 
 ---
 
 ## 🚀 Proje Yol Haritası (Roadmap)
 
-- [x] **Faz 1:** Temel dizin mimarisi ve ayet girişleri.
-- [x] **Faz 2:** Kavramsal dosyaların etimolojik derinleştirilmesi.
-- [ ] **Faz 3:** Hz. Yusuf silsilesinin entegrasyonu ve görsel haritalar.
-- [ ] **Faz 4:** Dijital Külliyatın (GitBook vb.) yayına alınması.
+- [x] **Faz 1:** Depo yapısının ve dizin mimarisinin oluşturulması.
+- [x] **Faz 2:** Temel ayetlerin meallerinin ve arapça metinlerinin sisteme girilmesi.
+- [x] **Faz 3:** Muteber Ehl-i Sünnet tefsirlerinden (İbn Kesir, Elmalılı, Râzî, Taberi vb.) temel açıklamaların eklenmesi.
+- [ ] **Faz 4:** Hz. Yusuf silsilesinin entegrasyonu ve görsel soy ağacı haritaları.
+- [ ] **Faz 5:** İçeriklerin GitBook platformu üzerinden dijital külliyat olarak yayına alınması.
 
 ---
 
 ## 📚 Metodoloji ve Kaynakça
 
-Bu arşiv, şahsi yorumlardan ziyade **Ehl-i Sünnet** tefsir geleneği (Râzî, İbn Kesir, Elmalılı vb.) ve Ragıb el-İsfahani'nin etimolojik çalışmaları esas alınarak hazırlanmaktadır. Detaylı liste için [Başvuru Eserleri](05_kaynakca_ve_tefsirler/basvuru_eserleri.md) dosyasını inceleyebilirsiniz.
+Bu repoda yer alan bilgiler şahsi yorumlardan ziyade, köklü İslami ilim geleneğine dayanmaktadır. Temel alınan kaynaklar:
+
+* **Mealler:** Diyanet İşleri Başkanlığı ve Türkiye Diyanet Vakfı mealleri.
+* **Klasik Tefsirler:** Taberi Tefsiri, İbn Kesir, Mefâtihu'l-Ğayb (Fahreddin er-Râzî).
+* **Çağdaş Tefsirler:** Hak Dini Kur'an Dili (Elmalılı Muhammed Hamdi Yazır), Kur'an Yolu (Diyanet).
+* **Kavramsal Sözlükler:** Ragıb el-İsfahani (Müfredat).
+
+Detaylı liste için [Başvuru Eserleri](05_kaynakca_ve_tefsirler/basvuru_eserleri.md) dosyasını inceleyebilirsiniz.
+
+---
+
+## 🤝 Katkı Sağlama Rehberi (Contributing)
+
+Bu depo, bilgiye katkı sunmak isteyen herkese açıktır. Bilgi, paylaşıldıkça bereketlenir. Katkı sağlamak için lütfen [Katkı Rehberini](CONTRIBUTING.md) okuyun.
+
+1. Depoyu **Fork** edin.
+2. Yeni bir çalışma dalı oluşturun: `git checkout -b ekleme/yeni-tefsir-notu`
+3. İçeriklerinizi Markdown formatında yazın ve işleyin.
+4. Çekme İsteği (**Pull Request**) oluşturun.
+
+---
+
+## ⚖️ Lisans Şartları
+
+Bu proje **MIT Lisansı** ile lisanslanmıştır.
+Kur'an-ı Kerim'in nurlu mesajı ve peygamberlerin mirası tüm insanlığa aittir.
 
 ---
 
