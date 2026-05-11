@@ -1,6 +1,10 @@
 # Bakara Suresi 132-133: Peygamberlerin Vasiyeti
 
-> *"İbrahim bunu oğullarına vasiyet etti, Yakub da öyle: 'Oğullarım! Allah sizin için bu dini seçti. Öyleyse sadece Müslümanlar olarak can verin' dedi."* (Bakara, 132)
+> [!IMPORTANT]
+> **وَوَصّٰى بِهَآ اِبْرٰه۪يمُ بَن۪يهِ وَيَعْقُوبُۜ يَا بَنِيَّ اِنَّ اللّٰهَ اصْطَفٰى لَكُمُ الدّ۪ينَ فَلَا تَمُوتُنَّ اِلَّا وَاَنْتُمْ مُسْلِمُونَۜ** (132)
+> **اَمْ كُنْتُمْ شُهَدَآءَ اِذْ حَضَرَ يَعْقُوبَ الْمَوْتُۙ اِذْ قَالَ لِبَن۪يهِ مَا تَعْبُدُونَ مِنْ بَعْد۪يۜ قَالُوا نَعْبُدُ اِلٰهَكَ وَاِلٰهَ اٰبَآئِكَ اِبْرٰه۪يمَ وَاِسْمٰع۪يلَ وَاِسْحٰقَ اِلٰهًا وَاحِدًاۚ وَنَحْنُ لَهُ مُسْلِمُونَ** (133)
+> 
+> *"İbrahim bunu kendi oğullarına da vasiyet etti, Yakub da: 'Oğullarım! Allah sizin için bu dini (İslâm'ı) seçti, siz de ancak müslümanlar olarak ölün' dedi. Yoksa siz Yakub'a ölüm geldiği zaman orada mıydınız? O, oğullarına: 'Benden sonra neye ibadet edeceksiniz?' dediğinde, onlar: 'Senin ilâhına ve ataların İbrahim, İsmail ve İshak'ın ilâhı olan tek ilâha ibadet edeceğiz. Bizler O'na teslim olanlarız' dediler."* (Bakara, 132-133)
 
 ## Vasiyetin Özü: Din ve Teslimiyet
 

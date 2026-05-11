@@ -1,5 +1,9 @@
 # Meryem Suresi 49-50: Lisan-ı Sıdk (Doğruluk Dili)
 
+> [!IMPORTANT]
+> **فَلَمَّا اعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِنْ دُونِ اللّٰهِ وَهَبْنَا لَهُ اِسْحٰقَ وَيَعْقُوبَۜ وَكُلًّا جَعَلْنَا نَبِيًّا** (49)
+> **وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا** (50)
+> 
 > *"Böylece (İbrahim) onlardan ve Allah'tan başka taptıklarından ayrılınca, ona İshak'ı ve Yakub'u bağışladık ve her birini peygamber yaptık. Onlara rahmetimizden bağışta bulunduk ve onlar için yüksek bir doğruluk dili (lisan-ı sıdk) kıldık."* (Meryem, 49-50)
 
 ## Kavramsal İnceleme: Lisan-ı Sıdk

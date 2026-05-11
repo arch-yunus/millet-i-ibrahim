@@ -1,4 +1,4 @@
-﻿# Millet-i İbrahim: Tevhidin Sarsılmaz Silsilesi
+# Millet-i İbrahim: Tevhidin Sarsılmaz Silsilesi
 
 ![Millet-i İbrahim Banner](millet_i_ibrahim_banner.png)
 
@@ -7,7 +7,10 @@
 ![Kategori](https://img.shields.io/badge/Kategori-İslami_İlimler_%7C_Tefsir_%7C_Kavram_Analizi-orange?style=for-the-badge)
 ![Dil](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red?style=for-the-badge)
 
-> *"Gökleri ve yeri birleyerek (hanîf olarak) yüzünü o dine çevir ve sakın müşriklerden olma." (Yunus, 105)*
+> [!IMPORTANT]
+> **وَأَنْ أَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ**
+> 
+> *"Gökleri ve yeri birleyerek (hanîf olarak) yüzünü o dine çevir ve sakın müşriklerden olma."* (Yunus, 105)
 
 ## 🏛 Projenin Vizyonu ve Felsefesi
 
@@ -16,6 +19,30 @@
 Hz. İbrahim'in (a.s.) ateşe atılma pahasına savunduğu bu tevhid meşalesi, Allah'ın bir lütfu olarak ona bağışlanan oğlu Hz. İshak ve torunu Hz. Yakub (a.s.) ile kesintisiz bir **"nübüvvet ve hidayet silsilesine"** dönüşmüştür. Sâd Suresi 45. ayette geçen **"Kuvvetli ve basiretli kullarımız..."** hitabı, bu üç şahsiyetin irade (kuvvet) ve hakikati görme (basiret) konusundaki eşsiz konumlarını özetler.
 
 Bu dijital arşiv; kölelikten hürriyete, şirkin karanlığından tevhidin nuruna hicret eden bu kutlu soyun mirasını; bilimsel, etimolojik ve teolojik perspektiflerle günümüz dünyasına taşımayı amaçlar.
+
+---
+
+## 📖 Temel Ayetler Arşivi (Kilit Referanslar)
+
+Bu arşivin ruhunu oluşturan, Millet-i İbrahim'in sarsılmaz silsilesini tanımlayan ana ayetler:
+
+> [!NOTE]
+> ### 1. Kuvvet ve Basiret Sahipleri
+> **وَاذْكُرْ عِبَادَنَآ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَ اُولِي الْاَيْد۪ي وَالْاَبْصَارِۜ**
+> 
+> *"Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an."* (Sâd, 45)
+
+> [!NOTE]
+> ### 2. Ataların Dini ve Saf Teslimiyet
+> **وَاتَّبَعْتُ مِلَّةَ اٰبَآئ۪يٓ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَآ اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۜ**
+> 
+> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz..."* (Yusuf, 38)
+
+> [!NOTE]
+> ### 3. Lisan-ı Sıdk (Doğruluk Dili)
+> **وَوَهَبْنَا لَهُمْ مِنْ رَحْمَتِنَا وَجَعَلْنَا لَهُمْ لِسَانَ صِدْقٍ عَلِيًّا**
+> 
+> *"Onlara rahmetimizden bağışta bulunduk ve onlar için yüksek bir doğruluk dili (lisan-ı sıdk) kıldık."* (Meryem, 50)
 
 ---
 
@@ -60,9 +87,10 @@ millet-i-ibrahim/
 
 ## 💎 Neden Bu Üç Peygamber? (Odak Noktaları)
 
-Kur'an-ı Kerim, Yusuf Suresi 38. ayette Hz. Yusuf'un (a.s.) zindan arkadaşlarına yaptığı şu tarihi çağrıyı bize aktarır:
-
-> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz..."*
+> [!TIP]
+> **وَاتَّبَعْتُ مِلَّةَ اٰبَآئ۪يٓ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَآ اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۜ**
+> 
+> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz..."* (Yusuf, 38)
 
 Bu soy zinciri tesadüfi değildir. İşte bu projenin temelini oluşturan üç sarsılmaz sütun:
 
@@ -140,7 +168,10 @@ Bu depo, bilgiye katkı sunmak isteyen herkese açıktır. Bilgi, paylaşıldık
 Bu proje **MIT Lisansı** ile lisanslanmıştır.
 Kur'an-ı Kerim'in nurlu mesajı ve peygamberlerin mirası tüm insanlığa aittir.
 
-*"Şüphesiz benim namazım, ibadetlerim, dirimim ve ölümüm âlemlerin Rabbi olan Allah içindir." (En'âm, 162)*
+> [!TIP]
+> **قُلْ اِنَّ صَلَات۪ي وَنُسُك۪ي وَمَحْيَايَ وَمَمَات۪ي لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ**
+> 
+> *"Şüphesiz benim namazım, ibadetlerim, dirimim ve ölümüm âlemlerin Rabbi olan Allah içindir."* (En'âm, 162)
 
 ---
 

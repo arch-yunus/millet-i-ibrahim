@@ -1,6 +1,11 @@
 # Sâd Suresi 45-47: Kuvvet ve Basiret Sahipleri
 
-> *"Kuvvet ve basiret sahibi kullarımız İbrahim'i, İshak'ı ve Yakub'u da an."* (Sâd, 45)
+> [!IMPORTANT]
+> **وَاذْكُرْ عِبَادَنَآ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَ اُولِي الْاَيْد۪ي وَالْاَبْصَارِۜ** (45)
+> **اِنَّآ اَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى الدَّارِۚ** (46)
+> **وَاِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْاَخْيَارِ۟** (47)
+> 
+> *"Güçlü ve basiretli kullarımız İbrahim’i, İshak’ı ve Yakub’u da an. Biz onları, özellikle ahiret yurdunu hatırlama özelliği ile saflaştırıp seçkin kıldık. Şüphesiz onlar bizim katımızda, seçilmiş en hayırlı kimselerdendir."* (Sâd, 45-47)
 
 ## Tefsir Analizi
 
@@ -21,6 +26,6 @@ Bu ayet, bir müminin ideal karakter yapısını çizer: Bir yanda sarsılmaz bi
 
 ---
 
-## İlgili Ayetler
-- *Sâd, 46:* "Şüphesiz biz onları, ahiret yurdunu düşünme özelliğiyle (ihlasıyla) tertemiz kıldık."
-- *Sâd, 47:* "Şüphesiz onlar bizim katımızda seçilmişlerden ve en hayırlılardandır."
+## Kavramsal Bağlantı
+Bu ayetlerde geçen "seçkin kılınma" ve "ahiret yurdu" temaları için:
+- [İhlas ve Ahiret Yurdu](../02_kavramsal_cerceve/ihlas_ve_ahiret_yurdu.md)

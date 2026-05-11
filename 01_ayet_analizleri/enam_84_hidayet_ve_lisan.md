@@ -1,6 +1,9 @@
 # En'âm Suresi 84: Hidayet ve Nübüvvet Silsilesi
 
-> *"Biz ona İshak'ı ve Yakub'u bağışladık; her birini hidayete erdirdik. Daha önce Nuh'u da hidayete erdirmiştik. Onun soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u da (hidayete erdirdik). Biz iyilik edenleri işte böyle ödüllendiririz."* (En'âm, 84)
+> [!IMPORTANT]
+> **وَوَهَبْنَا لَهُٓ اِسْحٰقَ وَيَعْقُوبَۜ كُلًّا هَدَيْنَاۚ وَنُوحًا هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِه۪ دَاوُدَ وَسُلَيْمٰنَ وَاَيُّوبَ وَيُوسُفَ وَمُوسٰى وَهٰرُونَۜ وَكَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ**
+> 
+> *"Biz ona İshak'ı ve Yakub'u da bağışladık; her birini hidayete erdirdik. Daha önce Nuh'u da hidayete erdirmiştik. Onun soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u da (hidayete erdirdik). Biz iyilik yapanları işte böyle ödüllendiririz."* (En'âm, 84)
 
 ## Hidayetin Mirası
 

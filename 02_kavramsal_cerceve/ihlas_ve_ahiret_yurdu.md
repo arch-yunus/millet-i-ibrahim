@@ -2,6 +2,9 @@
 
 Sâd Suresi 46. ayette Allah, Hz. İbrahim, İshak ve Yakub (a.s.) için çok özel bir nitelendirmede bulunur:
 
+> [!IMPORTANT]
+> **اِنَّآ اَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى الدَّارِۚ**
+> 
 > *"Şüphesiz biz onları, ahiret yurdunu düşünme özelliğiyle (zikra'd-dâr) tertemiz (ihlaslı) kıldık."* (Sâd, 46)
 
 ## "Zikra'd-Dâr" Ne Demektir?

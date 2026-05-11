@@ -1,6 +1,9 @@
 # Yusuf Suresi 38: Ataların Dini ve Tevhid
 
-> *"Atalarım İbrahim, İshak ve Yakub'un dinine uydum. Allah'a herhangi bir şeyi ortak koşmamız bize yakışmaz. Bu, Allah'ın bize ve insanlara olan bir lütfudur; fakat insanların çoğu şükretmezler."* (Yusuf, 38)
+> [!IMPORTANT]
+> **وَاتَّبَعْتُ مِلَّةَ اٰبَآئ۪يٓ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَآ اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۜ ذٰلِكَ مِنْ فَضْلِ اللّٰهِ عَلَيْنَا وَعَلَى النَّاسِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُونَ**
+> 
+> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz. Bu, bize ve insanlara Allah’ın bir lütfudur; fakat insanların çoğu şükretmezler."* (Yusuf, 38)
 
 ## Yusuf'un (a.s.) Kimlik Beyanı
 

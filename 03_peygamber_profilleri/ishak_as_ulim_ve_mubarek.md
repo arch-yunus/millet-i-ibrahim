@@ -1,30 +1,33 @@
-# Hz. İshak (a.s.): Bilge ve Mübarek Peygamber
+# Hz. İshak (a.s.): Alîm ve Mübarek Kılınan Oğul
 
-Hz. İshak (a.s.), Hz. İbrahim'in (a.s.) Hz. Sare'den olan ikinci oğludur. Kur'an-ı Kerim'de o, "bilge bir çocuk" (gulâmun alîm) olarak müjdelenmiş ve hayatı boyunca bereketin (mübarek kılınmanın) temsilcisi olmuştur.
+Hz. İshak (a.s.), Hz. İbrahim'in (a.s.) ileri yaşında, hanımı Sare validemizden mucizevi bir şekilde müjdelenen ve Kur'an'da "bilgin bir çocuk" (ğulâmun alîm) olarak nitelenen büyük bir peygamberdir. O, İsrailoğullarına uzanan nübüvvet silsilesinin Hz. İbrahim'den sonraki ilk halkasıdır.
 
-## Müjdelenişi ve Doğumu
+> [!IMPORTANT]
+> **وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِّنَ الصَّالِحِينَ (112) وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ** (113)
+> 
+> *"Biz ona salihlerden bir peygamber olarak İshak'ı müjdeledik. Onu da İshak'ı da mübarek kıldık."* (Saffat, 112-113)
 
-Hz. İbrahim ve Hz. Sare yaşlılık dönemindeyken, melekler onlara İshak'ı müjdelemiştir.
-> *"Karısı ayaktaydı, gülümsedi. Biz de ona İshak'ı, İshak'ın ardından da Yakub'u müjdeledik."* (Hûd, 71)
+## Kur'ani Vasıfları
 
-Bu doğum, imkansız gibi görünen durumların Allah'ın emriyle nasıl hakikate dönüştüğünün bir nişanesidir.
+### 1. Ğulâmun Alîm (Bilgin Bir Çocuk)
+> **فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ**
+> 
+> *"Onlara 'Korkma' dediler ve ona bilgin bir oğul (İshak'ı) müjdelediler."* (Zariyat, 28)
+Tefsirlere göre bu "ilim", onun hem ilahi vahyine olan vukufiyetini hem de dini meselelerdeki derin anlayışını ifade eder.
 
-## Kur'ani Nitelikleri
+### 2. Mübarek Kılınması
+Saffat Suresi'nde hem Hz. İbrahim hem de Hz. İshak için "Bâreknâ aleyh" (Onu mübarek kıldık) buyurulması, bu kutlu soyun hem dünyada hem de ahirette bir bereket ve hidayet kaynağı olduğunu gösterir.
 
-### 1. Salihlerden Olması
-Saffat Suresi 112. ayette onun peygamberliği ve salihlerden olduğu açıkça belirtilir.
+### 3. Sekine ve Hilm
+Hz. İshak, kaynaklarda sakinliği, yumuşak huyluluğu (hilm) ve babasının yolundaki sadakati ile tanınır. O, gürültüsüz ama derinden giden bir hidayet pınarıdır.
 
-### 2. Bilgi Sahibi (Alîm)
-Ona verilen "alîm" sıfatı, onun ilmi derinliğini ve hikmetli duruşunu ifade eder. O, babasından aldığı tevhid ilmini derinleştirmiş bir muallimdir.
-
-### 3. Mübarek Kılınması
-> *"Ona ve İshak'a bereket verdik."* (Saffat, 113)
-Bu bereket hem onun şahsında hem de onun soyundan gelen binlerce peygamberde tecelli etmiştir. İsrailoğulları silsilesi Hz. İshak üzerinden devam etmiştir.
-
-## Karakteristik Özelliği: Sekine ve Hilm
-Hz. İshak, kaynaklarda daha çok sakinliği, yumuşak huyluluğu (hilm) ve babasının yolundaki sadakati ile tanınır. O, gürültüsüz ama derinden giden bir hidayet pınarıdır.
+## Tarihsel ve Manevi Önemi
+Hz. İshak, babası İbrahim'in (a.s.) tebliğ ettiği "Millet-i İbrahim" mirasını Kenan diyarında devam ettirmiştir. Onun oğlu Hz. Yakub ve torunu Hz. Yusuf üzerinden devam eden bu silsile, tarihin en büyük peygamberlik damarını oluşturur.
 
 ---
 
-## Temel Ayetler
-- Hûd 71, Saffat 112-113, Zâriyât 28.
+## Başvuru Ayetleri
+- **Saffat 112-113:** Müjdelenmesi ve mübarek kılınması.
+- **Zariyat 28-30:** Meleklerin müjdesi.
+- **En'âm 84:** Hidayet silsilesindeki yeri.
+- **Hûd 71-73:** Sare validemize verilen müjde.
