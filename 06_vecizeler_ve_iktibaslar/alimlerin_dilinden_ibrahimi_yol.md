@@ -24,6 +24,26 @@ Bu bölüm, İslam ilim ve irfan geleneğinin büyük simalarının Hz. İbrahim
 > *"Hz. İbrahim'e 'Halil' (Dost) denilmesi, onun dostluğunu ispat edecek bir 'kurban' vermeyi göze almasındandır. Dostluk, bedel ödemekle kemale erer."*
 > — **Makalât**
 
+## 💎 İbn Kayyım el-Cevziyye
+> *"Haniflik, kalbin her türlü şirk şaibesinden arınarak, bir iğne ucu kadar bile Allah'tan başkasına yer vermemesidir. İbrahim (a.s.), kalbindeki bu tertemiz (hanîf) duruşu sayesinde ateşi gül bahçesine çevirmiştir. Zira kalbinde Allah sevgisi olanın, dışarıdaki ateşle işi olmaz."*
+> — **el-Fevâid**
+
+## 📖 Bediüzzaman Said Nursî
+> *"Hazret-i İbrahim'in (a.s.) yıldızlara, aya, güneşe bakıp 'La uhibbü'l-âfilîn' (Ben batanları sevmem) demesi; aklın, faniden bakiye olan o büyük hicretidir. Bu kelam, tüm kainatı arkasına atıp sadece Zât-ı Zülcelal'e yönelen bir ruhun ebediyet feryadıdır."*
+> — **Sözler (Asâ-yı Musa)**
+
+## 🏙️ Ali Şeriatî
+> *"Haccın her rüknü, İbrahimî bir devrimin sembolüdür. İbrahim olmak demek; kendi içindeki İsmail'i (en sevdiğini) kurban edebilecek bir teslimiyete ulaşmak ve Nemrutların saraylarını Tevhidin çekiciyle yerle bir etmektir. İbrahimî yol, pasif bir dindarlık değil, aktif bir sosyal duruştur."*
+> — **Hacc**
+
+## 🏺 İbn Kesîr
+> *"Allah Teâlâ İbrahim'i halil (dost) edindi; çünkü o, Rabbine karşı olan sevgisinde hiçbir yaratılmışı ortak etmedi. O, imtihan edildikçe sadakati artan, vefa gösterdikçe makamı yükselen bir 'Sıddık' peygamberdir."*
+> — **el-Bidâye ve'n-Nihâye**
+
+## 🕯️ Şehid Seyyid Kutub
+> *"İbrahim (a.s.) davasını tek başına omuzladığında, arkasında ne bir ordu ne de bir devlet vardı. Sadece sarsılmaz bir imanı vardı. İşte o iman, bugün milyarlarca insanı aynı secde hizasında birleştiren o büyük 'ümmet'in çekirdeğidir."*
+> — **Fî Zilâli'l-Kur'an**
+
 ---
 
 ## 💡 Hikmet Notları

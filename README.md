@@ -147,6 +147,9 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 > *"Millet-i İbrahim; şirke, zulme ve kula kulluğa karşı başkaldıran 'hürriyet-i imaniye'nin adıdır."*
 > — **Elmalılı Hamdi Yazır**
 
+> *"İbrahimî aşkın olmadığı yerde akıl, sadece kendini yakan bir ateştir."*
+> — **Muhammed İkbal**
+
 [Daha fazla iktibas incele...](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
 
 ---
