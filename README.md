@@ -55,6 +55,7 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 - 📝 [Peygamberlerin Vasiyeti](01_ayet_analizleri/bakara_132_133_vasiyet.md) (Bakara 132-133)
 - 📝 [Hidayet Silsilesi](01_ayet_analizleri/enam_84_hidayet_ve_lisan.md) (En'âm 84)
 - 📝 [Ataların Dini](01_ayet_analizleri/yusuf_38_atalarin_dini.md) (Yusuf 38)
+- 📝 [Hidayet Rehberleri](01_ayet_analizleri/sad_48_hidayet_rehberleri.md) (Sâd 48)
 
 ### 📂 [02 Kavramsal Çerçeve](02_kavramsal_cerceve/)
 *İbrahimî geleneğin üzerine inşa edildiği temel sütunlar.*
@@ -64,6 +65,7 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 - 🧩 [Lisan-ı Sıdk (Doğruluk Dili)](02_kavramsal_cerceve/lisan_i_sidk_dogruluk_dili.md)
 - 🧩 [Kalb-i Selîm](02_kavramsal_cerceve/kalb_i_selim.md)
 - 🧩 [İhlas ve Ahiret Yurdu](02_kavramsal_cerceve/ihlas_ve_ahiret_yurdu.md)
+- 🧩 [İsrail İsminin Anlamı](02_kavramsal_cerceve/israil_isminin_anlami.md)
 
 ### 📂 [03 Peygamber Profilleri](03_peygamber_profilleri/)
 *Şahsiyetlerin Kur'anî vasıfları ve karakter analizleri.*
