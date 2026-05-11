@@ -85,6 +85,7 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 ### 📂 [06 Vecizeler ve İktibaslar](06_vecizeler_ve_iktibaslar/)
 *İslam alimlerinin ve mutasavvıfların İbrahimî yol yorumları.*
 - 📜 [Âlimlerin Dilinden İbrahimî Yol](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
+- 🌍 [Evrensel Perspektif ve Felsefe](06_vecizeler_ve_iktibaslar/evrensel_perspektif_ve_felsefi_yaklasimlar.md)
 
 ![Sütunlar Banner](assets/pillars_banner.png)
 
@@ -170,7 +171,20 @@ Günümüzün dezenformasyon ve kimlik krizi çağında, Millet-i İbrahim arşi
 > *"Allah Teâlâ İbrahim'i halil (dost) edindi; çünkü o, Rabbine karşı olan sevgisinde hiçbir yaratılmışı ortak etmedi. O, imtihan edildikçe sadakati artan bir 'Sıddık' peygamberdir."*
 > — **İbn Kesîr**
 
-[Daha fazla iktibas ve derin analiz incele...](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
+[Daha fazla İslami iktibas incele...](06_vecizeler_ve_iktibaslar/alimlerin_dilinden_ibrahimi_yol.md)
+
+---
+
+## 🏛️ Evrensel Yankılar: Felsefi Bakış
+
+> *"İbrahim, imanın babasıdır. O, aklın sınırlarının bittiği yerde 'imanın şövalyesi' olarak ortaya çıkar."*
+> — **Søren Kierkegaard**
+
+> *"İbrahim, insanın mitolojik düşünceden sıyrılıp, tek bir Mutlak Varlık karşısında kendi bireysel sorumluluğunu idrak etmesinin ilk temsilcisidir."*
+> — **Karl Jaspers**
+
+[Daha fazla evrensel perspektif incele...](06_vecizeler_ve_iktibaslar/evrensel_perspektif_ve_felsefi_yaklasimlar.md)
+
 ---
 
 ## 📊 Örnek Bilgi Tabloları (Stratejik Mukayese)
