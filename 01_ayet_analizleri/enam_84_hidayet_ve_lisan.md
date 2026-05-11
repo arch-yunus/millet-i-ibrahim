@@ -1,11 +1,9 @@
 # En'âm Suresi 84: Hidayet ve Nübüvvet Silsilesi
 
 > [!IMPORTANT]
-> **وَتِلْكَ حُجَّتُنَآ اٰتَيْنَاهَآ اِبْرٰه۪يمَ عَلَىٰ قَوْمِه۪...** (83)
-> **وَوَهَبْنَا لَهُٓ اِسْحٰقَ وَيَعْقُوبَۜ كُلًّا هَدَيْنَاۚ وَنُوحًا هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِه۪ دَاوُدَ وَسُلَيْمٰنَ وَاَيُّوبَ وَيُوسُفَ وَمُوسٰى وَهٰرُونَۜ وَكَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ** (84)
-> **وَزَكَرِيَّا وَيَحْيٰى وَع۪يسٰى وَاِلْيَاسَۜ كُلٌّ مِنَ الصَّالِح۪ينَ** (85)
+> **وَوَهَبْنَا لَهُٓ اِسْحٰقَ وَيَعْقُوبَۜ كُلًّا هَدَيْنَاۚ وَنُوحًا هَدَيْنَا مِنْ قَبْلُ وَمِنْ ذُرِّيَّتِه۪ دَاوُدَ وَسُلَيْمٰنَ وَاَيُّوبَ وَيُوسُفَ وَمُوسٰى وَهٰرُونَۜ وَكَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ**
 > 
-> *"İşte bu, kavmine karşı İbrahim’e verdiğimiz hüccetimizdir... Biz ona İshak'ı ve Yakub'u da bağışladık; her birini hidayete erdirdik. Daha önce Nuh'u da hidayete erdirmiştik. Onun soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u da (hidayete erdirdik)... Zekeriya, Yahya, İsa ve İlyas’ı da (hidayete erdirdik). Hepsi de salihlerdendir."* (En'âm, 83-85)
+> *"Biz ona İshak'ı ve Yakub'u da bağışladık; her birini hidayete erdirdik. Daha önce Nuh'u da hidayete erdirmiştik. Onun soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u da (hidayete erdirdik). Biz iyilik yapanları işte böyle ödüllendiririz."* (En'âm, 84)
 
 ## Hidayetin Mirası
 

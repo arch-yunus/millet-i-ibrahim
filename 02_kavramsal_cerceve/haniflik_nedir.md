@@ -3,9 +3,9 @@
 **Hanif** kelimesi, lügatte "eğriliği bırakıp doğrunun yoluna giren, başka dinlerden ayrılıp tevhidi benimseyen" anlamına gelir. Kur'an-ı Kerim'de bu kavram bizzat Hz. İbrahim (a.s.) ile özdeşleşmiş ve İslam'ın özü olarak sunulmuştur.
 
 > [!IMPORTANT]
-> **تِلْكَ أُمَّةٌ قَدْ خَلَتْ... (134) وَقَالُوا كُونُوا هُودًا أَوْ نَصَارَىٰ تَهْتَدُوا ۗ قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا... (135) قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنزِلَ إِلَيْنَا وَمَا أُنزِلَ إِلَىٰ إِبْرَاهِيمَ... (136)**
+> **وَقَالُوا كُونُوا هُودًا أَوْ نَصَارَىٰ تَهْتَدُوا ۗ قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ**
 > 
-> *"Onlar gelip geçmiş bir ümmettir... Yahudiler ve Hıristiyanlar, 'Yahudi veya Hıristiyan olun ki doğru yolu bulasınız' dediler. De ki: 'Hayır, biz bâtıldan uzak olan İbrahim'in dinine uyarız.' Deyin ki: 'Biz Allah'a, bize indirilene, İbrahim'e... indirilene iman ettik.'"* (Bakara, 134-136)
+> *"De ki: 'Hayır! Biz, hakka yönelen (hanif) İbrahim'in dinine uyarız. O, müşriklerden değildi.'"* (Bakara, 135)
 
 ## Etimolojik ve Teknik Analiz
 

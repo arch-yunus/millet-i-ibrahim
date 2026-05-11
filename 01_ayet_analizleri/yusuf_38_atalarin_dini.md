@@ -1,9 +1,9 @@
 # Yusuf Suresi 38: Ataların Dini ve Tevhid
 
 > [!IMPORTANT]
-> **قَالَ لَا يَأْتِيكُمَا طَعَامٌ... (37) وَاتَّبَعْتُ مِلَّةَ آبَائِي إِبْرَاهِيمَ وَإِسْحَاقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَا أَن نُّشْرِكَ بِاللَّهِ مِن شَيْءٍ... (38) يَا صَاحِبَيِ السِّجْنِ أَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ اللَّهُ الْوَاحِدُ الْقَهَّارُ (39)**
+> **وَاتَّبَعْتُ مِلَّةَ اٰبَآئ۪يٓ اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَۜ مَا كَانَ لَنَآ اَنْ نُشْرِكَ بِاللّٰهِ مِنْ شَيْءٍۜ ذٰلِكَ مِنْ فَضْلِ اللّٰهِ عَلَيْنَا وَعَلَى النَّاسِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَشْكُرُونَ**
 > 
-> *"(Yusuf:) '...Şüphesiz ben, Allah'a inanmayan bir kavmin dininden uzaklaştım. Atalarım İbrahim, İshak ve Yakub'un dinine uydum. Allah'a hiçbir şeyi ortak koşmamız bize yaraşmaz... Ey zindan arkadaşlarım! Birbirinden ayrı birçok rabler mi daha hayırlıdır, yoksa her şeye galip gelen tek Allah mı?'"* (Yusuf, 37-39)
+> *"Atalarım İbrahim, İshak ve Yakub’un dinine uydum. Bizim, Allah’a herhangi bir şeyi ortak koşmamız söz konusu olamaz. Bu, bize ve insanlara Allah’ın bir lütfudur; fakat insanların çoğu şükretmezler."* (Yusuf, 38)
 
 ## Yusuf'un (a.s.) Kimlik Beyanı
 

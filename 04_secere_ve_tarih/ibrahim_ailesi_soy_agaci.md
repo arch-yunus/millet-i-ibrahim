@@ -3,9 +3,9 @@
 Millet-i İbrahim, rastgele bir topluluk değil, Allah tarafından seçilmiş ve birbiri ardınca gelen peygamberlerle onurlandırılmış kutsal bir silsiledir.
 
 > [!IMPORTANT]
-> **قُلْ أَطِيعُوا اللَّهَ وَالرَّسُولَ... (32) إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ عِمْرَانَ عَلَى الْعَالَمِينَ (33) ذُرِّيَّةً بَعْضُهَا مِن بَعْضٍ... (34) إِذْ قَالَتِ امْرَأَتُ عِمْرَانَ رَبِّ إِنِّي نَذَرْتُ لَكَ مَا فِي بَطْنِي مُحَرَّرًا... (35)**
+> ** إِنَّ اللَّهَ اصْطَفَىٰ آدَمَ وَنُوحًا وَآلَ إِبْرَاهِيمَ وَآلَ عِمْرَانَ عَلَى الْعَالَمِينَ (33) ذُرِّيَّةً بَعْضُهَا مِن بَعْضٍ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ** (34)
 > 
-> *"De ki: 'Allah'a ve Peygamber'e itaat edin.'... Şüphesiz Allah; Âdem'i, Nuh'u, İbrahim ailesini ve İmran ailesini seçip âlemlere üstün kıldı. Onlar, birbirlerinden türeyen bir soydur... Hani İmran'ın karısı, 'Rabbim! Karnımdakini azatlı bir kul olarak sana adadım' demişti."* (Âl-i İmrân, 32-35)
+> *"Şüphesiz Allah; Âdem'i, Nûh'u, İbrahim ailesini ve İmrân ailesini birbirinin soyundan olarak alemlere üstün kıldı. Allah hakkıyla işitendir, hakkıyla bilendir."* (Âl-i İmrân, 33-34)
 
 ## Şematik Silsile
 

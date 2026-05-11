@@ -1,32 +1,23 @@
-# Başvuru Eserleri ve Kaynakça
+# Başvuru Eserleri ve Tefsir Kaynakları
 
-Bu repository hazırlanırken yararlanılan ve daha derin okuma yapmak isteyenler için tavsiye edilen muteber kaynaklar listesidir.
-
-## Kur'an-ı Kerim ve Mealler
-- **Diyanet İşleri Başkanlığı** - Kur'an-ı Kerim Meali.
-- **Türkiye Diyanet Vakfı (TDV)** - İslam Ansiklopedisi.
-- **Muhammed Esed** - Kur'an Mesajı.
+Bu arşivdeki analizler, İslami ilimler geleneğinin en muteber kaynakları ve modern akademik çalışmalar ışığında hazırlanmıştır.
 
 ## Klasik Tefsirler
-- **İbn Kesir** - Tefsîru'l-Kur'âni'l-Azîm.
-- **Taberî** - Câmiu'l-Beyân.
-- **Fahreddin er-Râzî** - Mefâtîhu'l-Gayb (Tefsir-i Kebir).
-- **Zemahşerî** - El-Keşşâf.
+1. **Fahreddin Râzî** - *Mefâtîhu’l-Ğayb (Tefsir-i Kebîr)*: Ayetlerin kelami ve felsefi derinliği için temel kaynaktır.
+2. **İbn Kesîr** - *Tefsîru’l-Kur’âni’l-Azîm*: Peygamberler tarihi (Kısas-ı Enbiya) ve hadislerle desteklenen rivayetler için.
+3. **Kurtubî** - *el-Câmi' li Ahkâmi'l-Kur'ân*: Fıkhi hükümler ve toplumsal mesajlar için.
+4. **Tabatabaî** - *el-Mîzân fî Tefsîri’l-Kur’ân*: Ayetlerin birbirini tefsir etmesi (Kur'an-Kur'an bütünlüğü) açısından.
 
-## Çağdaş Tefsirler ve Çalışmalar
-- **Elmalılı Hamdi Yazır** - Hak Dini Kur'an Dili.
-- **Diyanet Heyeti** - Kur'an Yolu Tefsiri.
-- **Mevdudi** - Tefhimu'l-Kur'an.
+## Sözlük ve Kavram Çalışmaları
+- **Râgıb el-İsfahânî** - *el-Müfredât*: Kur'an kavramlarının etimolojik kökenleri için.
+- **İbn Manzûr** - *Lisânü’l-Arab*: Arapça dil mantığı ve semantik derinlik için.
 
-## Tematik ve Kavramsal Eserler
-- **Ragıb el-İsfahani** - Müfredât: Kur'an Kavramları Sözlüğü.
-- **İzzet Derveze** - et-Tefsîru'l-Hadîs.
-- **Ali Şeriati** - İbrahim'le Buluşma.
+## Modern Çalışmalar
+- **Elmalılı Hamdi Yazır** - *Hak Dini Kur’an Dili*: Türkçe literatürdeki en kapsamlı ve derinlikli tefsir.
+- **Diyanet İşleri Başkanlığı** - *Kur'an Yolu*: Güncel meselelerle bağ kuran analizler.
 
-## Tarih ve Siyer
-- **İbn Esir** - el-Kâmil fi't-Tarih.
-- **Asım Köksal** - Peygamberler Tarihi.
-
----
-
-> *"Rabbim, ilmimi artır." (Taha, 114)*
+## Metodoloji
+Arşivdeki tüm içerikler şu süzgeçten geçirilir:
+- **Metin Bütünlüğü:** Ayetin öncesi ve sonrası ile olan bağı.
+- **Sünnetullah:** Allah'ın kainattaki ve tarihteki değişmez yasaları.
+- **Akıl ve Nakil Dengesi:** İbrahimî basiretin bir gereği olarak, ilahi vahyin akli delillerle desteklenmesi.
