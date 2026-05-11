@@ -42,6 +42,8 @@ Arşivimizde her kavram, Kur'an'ın semantik dünyasındaki köklerine inilerek 
 
 ---
 
+![Mimari Banner](assets/architecture_banner.png)
+
 ## 🗂️ Depo Mimarisi ve İçerik Rehberi
 
 Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin yapısı aşağıdadır:
@@ -78,6 +80,8 @@ Arşivdeki bilgilere hızlı erişim sağlamak için yapılandırılmış dizin 
 *Arşivin beslendiği akademik ve ilmi kaynaklar.*
 - 📚 [Başvuru Eserleri](05_kaynakca_ve_tefsirler/basvuru_eserleri.md)
 
+![Sütunlar Banner](assets/pillars_banner.png)
+
 ## 💎 Odak Noktaları (Millet-i İbrahim'in Sütunları)
 
 Millet-i İbrahim'in sarsılmaz silsilesini tanımlayan ve bu arşivin temelini oluşturan üç ana ruh:
@@ -107,6 +111,8 @@ Millet-i İbrahim'in sarsılmaz silsilesini tanımlayan ve bu arşivin temelini 
 > Allah, bu üç peygambere yüksek bir "doğruluk dili" bağışlamıştır. Bu makam; bütün semavi dinler ve sonraki tüm medeniyetler tarafından saygıyla, hürmetle ve doğrulukla anılmak demektir. Hz. İbrahim'in *"Benden sonra gelecekler içinde beni doğrulukla anılanlardan (lisan-ı sıdk) eyle"* (Şuara, 84) duası, bu silsilede tam anlamıyla tecelli etmiştir.
 
 ---
+
+![Vizyon Banner](assets/modern_vision_banner.png)
 
 ## 🌍 Modern Çağa Mesajlar: Neden Şimdi?
 
