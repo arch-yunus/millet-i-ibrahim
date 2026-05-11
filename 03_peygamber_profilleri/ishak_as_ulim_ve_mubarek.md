@@ -1,33 +1,35 @@
-# Hz. İshak (a.s.): Alîm ve Mübarek Kılınan Oğul
+# Hz. İshak (a.s.): Alîm, Mübarek ve Nübüvvetin Devamı
 
-Hz. İshak (a.s.), Hz. İbrahim'in (a.s.) ileri yaşında, hanımı Sare validemizden mucizevi bir şekilde müjdelenen ve Kur'an'da "bilgin bir çocuk" (ğulâmun alîm) olarak nitelenen büyük bir peygamberdir. O, İsrailoğullarına uzanan nübüvvet silsilesinin Hz. İbrahim'den sonraki ilk halkasıdır.
+Hz. İshak (a.s.), Hz. İbrahim'in (a.s.) ileri yaşında, eşi Sâre'den Allah'ın bir lütfu ve mucizesi olarak doğan, Kur'an'ın ifadesiyle **"Alîm"** (bilgili/alim) sıfatıyla müjdelenen ulu bir peygamberdir. O, İbrahimî silsilenin Kenan diyarındaki hidayet köprüsü ve İsrailoğulları peygamberlerinin atasıdır.
 
 > [!IMPORTANT]
-> **وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِّنَ الصَّالِحِينَ (112) وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ** (113)
+> **وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِّنَ الصَّالِحِينَ وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ**
 > 
-> *"Biz ona salihlerden bir peygamber olarak İshak'ı müjdeledik. Onu da İshak'ı da mübarek kıldık."* (Saffat, 112-113)
+> *"Biz ona salihlerden bir peygamber olarak İshak'ı müjdeledik. Onu da İshak'ı da mübarek (bereketli) kıldık."* (Saffat, 112-113)
 
-## Kur'ani Vasıfları
+## Karakteristik Vasıfları
 
-### 1. Ğulâmun Alîm (Bilgin Bir Çocuk)
-> **فَأَوْجَسَ مِنْهُمْ خِيفَةً ۖ قَالُوا لَا تَخَفْ ۖ وَبَشَّرُوهُ بِغُلَامٍ عَلِيمٍ**
-> 
-> *"Onlara 'Korkma' dediler ve ona bilgin bir oğul (İshak'ı) müjdelediler."* (Zariyat, 28)
-Tefsirlere göre bu "ilim", onun hem ilahi vahyine olan vukufiyetini hem de dini meselelerdeki derin anlayışını ifade eder.
+### 1. Ğulâmun Alîm (Bilgili Çocuk)
+Hz. İshak, daha doğmadan önce melekler tarafından "alim bir oğul" olarak müjdelenmiştir (Zariyat, 28). Bu sıfat, onun sadece bir peygamber değil, aynı zamanda derin bir hikmet ve ilim sahibi olduğunu gösterir. İslami tefsir geleneğinde o, aklî ve kalbî ilimlerin birleştiği bir şahsiyettir.
 
-### 2. Mübarek Kılınması
-Saffat Suresi'nde hem Hz. İbrahim hem de Hz. İshak için "Bâreknâ aleyh" (Onu mübarek kıldık) buyurulması, bu kutlu soyun hem dünyada hem de ahirette bir bereket ve hidayet kaynağı olduğunu gösterir.
+### 2. Mübarek Kılınmışlık
+Saffat Suresi'nde hem Hz. İbrahim hem de Hz. İshak için **"Bâraknâ"** (Mübarek kıldık) ifadesi kullanılır. Bu bereket; sadece neslin çokluğu değil, o nesilden binlerce peygamberin (Hz. Yakub, Hz. Yusuf, Hz. Musa, Hz. İsa vb.) gelecek olması ve Tevhid mesajının bu soy üzerinden dünyaya yayılmasıdır.
 
-### 3. Sekine ve Hilm
-Hz. İshak, kaynaklarda sakinliği, yumuşak huyluluğu (hilm) ve babasının yolundaki sadakati ile tanınır. O, gürültüsüz ama derinden giden bir hidayet pınarıdır.
+### 3. Salih Bir Peygamber
+O, babası İbrahim'in (a.s.) Hanif yolunu sadakatle sürdüren, ameli ve sözü bir olan bir "salih"tir. Kur'an'da her zaman babası İbrahim ve oğlu Yakub ile birlikte zikredilerek, hidayet silsilesinin kopmaz bir halkası olduğu vurgulanır.
 
-## Tarihsel ve Manevi Önemi
-Hz. İshak, babası İbrahim'in (a.s.) tebliğ ettiği "Millet-i İbrahim" mirasını Kenan diyarında devam ettirmiştir. Onun oğlu Hz. Yakub ve torunu Hz. Yusuf üzerinden devam eden bu silsile, tarihin en büyük peygamberlik damarını oluşturur.
+## İshak (a.s.) ve Kenan Diyarı Mirası
+Hz. İshak, babasının Filistin ve çevresinde ektiği Tevhid tohumlarını yeşerten kişidir. O, göçebe bir hayattan yerleşik bir medeniyete geçişin manevi mimarlarındandır.
+- **Huzur ve İlim:** Hayatı boyunca fitnelerden uzak kalmış, ilim ve ibadetle meşgul olmuştur.
+- **Silsile Köprüsü:** Hz. İsmail'in Mekke'deki davasına paralel olarak, Kenan diyarında Tevhidin bayrağını dalgalandırmıştır.
+
+## Millet-i İbrahim İçindeki Rolü
+İshak (a.s.), Allah'ın Hz. İbrahim'e olan vaadinin tecellisidir. "Basiret sahibi" bir kul olarak, olayların iç yüzünü kavrama ve gelecek nesillere bu basireti aktarma görevini üstlenmiştir.
 
 ---
 
 ## Başvuru Ayetleri
 - **Saffat 112-113:** Müjdelenmesi ve mübarek kılınması.
-- **Zariyat 28-30:** Meleklerin müjdesi.
-- **En'âm 84:** Hidayet silsilesindeki yeri.
-- **Hûd 71-73:** Sare validemize verilen müjde.
+- **Zariyat 24-30:** Meleklerin doğumuyla ilgili müjdesi.
+- **En'âm 84:** Hidayete erdirilmesi ve babasına bağışlanması.
+- **Meryem 49:** Allah'ın bir lütfu olarak İbrahim'e verilmesi.
